@@ -1,17 +1,35 @@
-# Hi, I'm Alif Arlendi 👋
+# v4mp1r3 Labs
 
-Computer Engineering Student • Web Developer • Security Analyst
+**Software & Digital Product Studio**
 
-I'm passionate about building modern web applications and improving cybersecurity through secure development and vulnerability assessment.
+We design and build modern software for the web.
 
-## 🌐 Portfolio
+From websites and web applications to custom digital products, we turn ideas and real-world problems into practical, scalable software.
 
-**https://whosarlend.github.io/alifarlendi-portfolio/**
+## What We Build
 
-## 📫 Connect
+- 🌐 Web Applications
+- 🖥️ Websites & Digital Experiences
+- ⚙️ Custom Software
+- 🔐 Secure Software & Security
+- ☁️ Deployment & Infrastructure
+
+## 🚀 Projects
+
+Explore our repositories to see what we're building.
+
+## 👤 Founder
+
+**Alif Arlendi** — Computer Engineering Student • Web Developer • Security Analyst
+
+## 🌐 Website
+
+Coming soon.
+
+## 📫 Contact
 
 - GitHub: https://github.com/whosArlend
 - LinkedIn: https://linkedin.com/in/alif-arlendi
 - Email: alifarlendi123@gmail.com
 
-> Explore my portfolio to learn more about my projects, experience, and certifications.
+> Building software for the web.
