@@ -20,7 +20,7 @@ Explore our repositories to see what we're building.
 
 ## 👤 Founder
 
-**Alif Arlendi** — Computer Engineering Student • Web Developer • Security Analyst
+**Alif Arlendi** — Computer Engineering Student • Web Developer • Cybersecurity Enthusiast
 
 ## 🌐 Website
 
