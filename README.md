@@ -1,4 +1,4 @@
-# v4mp1r3 Labs
+# v4mpir3 Labs
 
 **Software & Digital Product Studio**
 
