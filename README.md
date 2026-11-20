@@ -32,7 +32,7 @@ CredLock is a web-based security platform designed to help users improve passwor
 
 **Tech Stack:** React · TypeScript · Vite · Express · Supabase · Tailwind CSS
 
-[View Repository](https://github.com/whosArlend/CredLock) · [Live Demo]([https://credlock-security.vercel.app]) · [API](https://credlock-api.vercel.app)
+[View Repository](https://github.com/whosArlend/CredLock) · [Live Demo](https://credlock-security.vercel.app) · [API](https://credlock-api.vercel.app)
 
 ---
 
