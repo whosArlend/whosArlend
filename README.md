@@ -14,7 +14,27 @@ From websites and web applications to custom digital products, we turn ideas and
 - 🔐 Secure Software & Security
 - ☁️ Deployment & Infrastructure
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+### CredLock
+
+**Password Security & Cybersecurity Intelligence Platform** · `v1.0.0`
+
+CredLock is a web-based security platform designed to help users improve password security through password analysis, secure password generation, breach detection, and cybersecurity intelligence.
+
+**Features**
+- 🔍 Password strength analysis
+- 🔑 Secure password generation
+- 🛡️ Password breach checking with HIBP k-anonymity
+- 📊 Cybersecurity intelligence dashboard
+- 📚 Security recommendations & educational articles
+- 📱 Progressive Web App (PWA)
+
+**Tech Stack:** React · TypeScript · Vite · Express · Supabase · Tailwind CSS
+
+[View Repository](https://github.com/whosArlend/CredLock) · [Live Demo]([YOUR_FRONTEND_URL](https://credlock-security.vercel.app/)) · [API](https://credlock-api.vercel.app)
+
+---
 
 Explore our repositories to see what we're building.
 
