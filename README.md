@@ -18,7 +18,7 @@ From websites and web applications to custom digital products, we turn ideas and
 
 ### CredLock
 
-**Password Security & Cybersecurity Intelligence Platform** · `v1.0.0`
+**Password Security & Cybersecurity Intelligence Platform** · `v2.0.0`
 
 CredLock is a web-based security platform designed to help users improve password security through password analysis, secure password generation, breach detection, and cybersecurity intelligence.
 
