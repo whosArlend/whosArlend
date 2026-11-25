@@ -18,21 +18,32 @@ From websites and web applications to custom digital products, we turn ideas and
 
 ### CredLock
 
-**Password Security & Cybersecurity Intelligence Platform** · `v2.0.0`
+**Password Security & Cybersecurity Intelligence Platform** · `v2.0.0` · 🟢 Production
 
-CredLock is a web-based security platform designed to help users improve password security through password analysis, secure password generation, breach detection, and cybersecurity intelligence.
+CredLock is a privacy-focused password security platform featuring client-side password analysis, cryptographically secure password generation, privacy-preserving breach detection, and cybersecurity intelligence. Built with a security-first architecture, CredLock underwent comprehensive frontend and backend security hardening and is deployed in production.
 
 **Features**
-- 🔍 Password strength analysis
-- 🔑 Secure password generation
-- 🛡️ Password breach checking with HIBP k-anonymity
+
+- 🔍 Client-side password strength analysis using `zxcvbn-ts`
+- 🔑 Cryptographically secure password generation with Web Crypto API
+- 🛡️ Password breach detection using HIBP k-Anonymity (5-character hash prefix)
 - 📊 Cybersecurity intelligence dashboard
 - 📚 Security recommendations & educational articles
+- 🔐 Authentication with account-isolated local audit history
+- 🗄️ Privacy-focused local history storage using IndexedDB
+- ⚙️ Distributed API rate limiting with Upstash Redis
 - 📱 Progressive Web App (PWA)
 
-**Tech Stack:** React · TypeScript · Vite · Express · Supabase · Tailwind CSS
+**Security Highlights**
 
-[View Repository](https://github.com/whosArlend/CredLock) · [Live Demo](https://credlock-security.vercel.app) · [API](https://credlock-api.vercel.app)
+- Comprehensive frontend & backend security hardening
+- 448 automated tests passed (262 frontend · 186 backend)
+- TypeScript validation & ESLint passed
+- Production deployment verified
+
+**Tech Stack:** React 19 · TypeScript · Vite 6 · Express 5 · Supabase · Tailwind CSS · Upstash Redis · Web Crypto API
+
+[View Repository](https://github.com/whosArlend/CredLock) · [Live Demo](https://credlock-security.vercel.app/) · [API](https://credlock-api.vercel.app/)
 
 ---
 
